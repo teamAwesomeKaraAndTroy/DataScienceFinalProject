@@ -1,3 +1,4 @@
 *.csv
 mesowest
 ncdc
+.ipynb_checkpoints
